@@ -37,7 +37,7 @@
           <input type="email" name="email" class="form-control" value="${u.email}">
         </div>
         <div class="mb-3">
-          <label class="form-label">비밀번호 확인 (수정하려면 입력)</label>
+          <label class="form-label">비밀번호</label>
           <input type="password" name="password" class="form-control">
         </div>
         <div class="mb-3">
